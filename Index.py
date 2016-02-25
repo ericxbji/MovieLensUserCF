@@ -1,4 +1,5 @@
 #__author__ = 'jixuebin'
+# 评价指标
 
 import math
 from Recommend import GetRecommendation
