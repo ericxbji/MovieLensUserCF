@@ -1,6 +1,6 @@
 #__author__ = 'jixuebin'
 
-# 给用户推荐item
+
 def GetRecommendation(user, train, W, K, r):
 	rank = dict()
 	interacted_items = train[user]  # 用户产生行为的item
