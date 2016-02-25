@@ -1,5 +1,5 @@
 #__author__ = 'jixuebin'
-
+# 相似度函数
 import math
 
 # 余弦相似度，O(N*N)
