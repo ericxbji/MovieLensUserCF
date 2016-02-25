@@ -1,6 +1,6 @@
 #__author__ = 'jixuebin'
 
-#分割数据，将每个用户的记录分成5份，3份训练集，1份交叉验证集，1份测试集
+#Split Dataset，将每个用户的记录分成5份，3份训练集，1份交叉验证集，1份测试集
 def SplitData(data):
 	train = dict()  # 训练集
 	cv = dict()  # 交叉验证集
