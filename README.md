@@ -1,6 +1,7 @@
 # MovieLensUserCF
 
 Dataset: MovieLens 1M
+Training set, Cross Validation set, Testing set=6:2:2
 
 Similarity Function:
 Cosine Similarity
